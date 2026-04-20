@@ -62,10 +62,9 @@ RegisterNumber:21225040051
 */
 ```
 
+
 ## Output:
 <img width="1029" height="680" alt="Screenshot 2026-04-20 144341" src="https://github.com/user-attachments/assets/ad151eec-344b-46e7-894c-16bf74a0507c" />
-
-
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
